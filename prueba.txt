@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Aquesta es la segona linea, pero desde branca main
+=======
+Afegim el primer comentario a l'arxiu
+>>>>>>> branch1
